@@ -1,0 +1,2 @@
+# KatalonTestIonic
+Simple CI test
